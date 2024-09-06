@@ -13,4 +13,6 @@ function takeNumber(numbers){
     return result;
 }
 let result =takeNumber(4);
+
+
 console.log("result:"+result);
